@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ddd0f5f58642b5440aae6c81d4471ad5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - keysValueText: {instanceID: 0}
+  - mazeGoalPrefab: {fileID: 3217546760869357760, guid: 8d28e45034358d946974412431a2a835,
+      type: 3}
+  - mazeKeyPrefab: {fileID: 3403841710346909045, guid: 4986f2eae7a8060499311771f11890a1,
+      type: 3}
+  - powerUpStarPrefab: {fileID: 2898670699528166072, guid: 6391439d07b6d474c8b0a294d8c07754,
+      type: 3}
+  - powerUpSpeedPrefab: {fileID: 3936990483608292997, guid: 9671dcfcf2fa861448756a1d7d84dade,
+      type: 3}
+  - powerUpInvulnPrefab: {fileID: 3177652537561946307, guid: daf5014a7adc51c4282db9d53ceaf718,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

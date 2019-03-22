@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 06650b61c6d158f4cbdf43c2233b4131
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - closedGoalSprite: {fileID: 21300000, guid: af3c576b4cd22844899e8c59dc56d4f6, type: 3}
+  - openedGoalSprite: {fileID: 21300000, guid: 3d19ad2397252034e80d21f129ac7632, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
